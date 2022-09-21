@@ -1,4 +1,5 @@
 ### **Elden Ring**
+Ver 1.06
 
 | Google Drive |
 |--------------|
