@@ -1,6 +1,8 @@
 ### **Metro Exodus**
 
-| Enchanced Edition\n(Ray tracing GPU only) | Gold Edition\n(Non-Ray tracing GPU) |
+| Enchanced Edition
+(Ray tracing GPU only) | Gold Edition
+(Non-Ray tracing GPU) |
 |------------------------------------------|------------------------------------|
 | [Part 1](https://docs.google.com/uc?id=1_anhU09vIXAo_aM19Hftgh6DrvFgodj6) | [Part 1](https://docs.google.com/uc?id=19QPkzdcvIt_VxkTMvAaWEhKTkJ8tVOtB) |
 | [Part 2](https://docs.google.com/uc?id=19wfSNoiDLJSmMOOQRCeIovMtqaWu7ZRv) | [Part 2](https://docs.google.com/uc?id=18m3IYZePTA-sd5AHMK6CC5HnEyREEzFX) |
